@@ -1,10 +1,10 @@
 -- MainKit Framework - A Lua-based core module addon for task management, event handling and more.
--- Author: Maximus Farvour | Github: @GMM-rgb
+-- Author: @GMM-rgb
 -- MaxCore Initialization Suite v1.0
 
 -- MaxCore.lua
 
--- Copyright (c) 2025 Maximus Farvour
+-- Copyright (c) 2025 GMM-rgb
 -- Licensed under the MIT License.
 
 -- ======= Core ========
